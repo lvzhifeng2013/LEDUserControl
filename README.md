@@ -1,2 +1,2 @@
 # LEDUserControl
-some userControl to Draw a LEDForm for WinForm
+some userControls to Draw a LEDForm for WinForm
